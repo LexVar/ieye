@@ -1,0 +1,12 @@
+html *
+{
+   font-family: 'Roboto', sans-serif !important;
+   /* font-family: 'Quicksand', sans-serif !important; */
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  font-family:roboto;
+}
